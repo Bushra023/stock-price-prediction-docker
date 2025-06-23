@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bushra/Desktop/Project/Project%202/mlruns/0/e4919dd96acd4287b6982f925be99194/artifacts
+end_time: 1747941903616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4919dd96acd4287b6982f925be99194
+run_name: XGBoost-StockModel
+run_uuid: e4919dd96acd4287b6982f925be99194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747941891588
+status: 3
+tags: []
+user_id: Bushra

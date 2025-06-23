@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Price Prediction</title>
+</head>
+<body>
+    <h2>Enter Stock Features</h2>
+    <form action="/predict" method="post">
+        <label for="open_price">Open Price:</label><br>
+        <input type="number" step="any" name="open_price" required><br><br>
+
+        <label for="prev_close">Previous Close:</label><br>
+        <input type="number" step="any" name="prev_close" required><br><br>
+
+        <label for="ma_7">7-Day Moving Average:</label><br>
+        <input type="number" step="any" name="ma_7" required><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction %}
+        <h3>Prediction: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
+
+

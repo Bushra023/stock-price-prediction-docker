@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bushra/Desktop/Project/Project%202/mlruns/0/f67de064a2d340b6a7e98f5ae59ae8b7/artifacts
+end_time: 1747941871169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67de064a2d340b6a7e98f5ae59ae8b7
+run_name: LinearRegression-StockModel
+run_uuid: f67de064a2d340b6a7e98f5ae59ae8b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747941848953
+status: 3
+tags: []
+user_id: Bushra
